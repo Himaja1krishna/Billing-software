@@ -1,0 +1,38 @@
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+input {
+  margin-right: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  padding: 5px 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  margin: 10px;
+}
+
+th {
+  background-color: blue;
+  color: white;
+}
+
+td button {
+  margin-right: 5px;
+}
